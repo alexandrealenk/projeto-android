@@ -65,7 +65,7 @@ header > p {
     padding-left: 15px;
     padding-right: 15px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.546);
 }
 
